@@ -1,0 +1,7 @@
+
+Python 3.x
+PyTorch
+Ultralytics YOLOv8
+Roboflow
+Matplotlib
+OpenCV
